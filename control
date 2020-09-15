@@ -1,0 +1,9 @@
+Package: it.dreamcode.picobanners2
+Name: PicoBanners 2
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Smaller iOS 11 banners
+Maintainer: Michele Primavera <support@dreamcode.it>
+Author: Michele Primavera <support@dreamcode.it>
+Section: Tweaks
